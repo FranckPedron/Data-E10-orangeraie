@@ -1,0 +1,31 @@
+{
+  "name": "data-e10-orangeraie-franckpedron",
+  "version": "1.0.0",
+  "description": "Les jointures, c'est sympa; Mais alors les sous-requêtes et cette notion de table virtuelle... :boom::dizzy_face:",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Atome/Data-E10-orangeraie-FranckPedron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Atome/Data-E10-orangeraie-FranckPedron/issues"
+  },
+  "homepage": "https://github.com/O-clock-Atome/Data-E10-orangeraie-FranckPedron#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "debug": "^4.3.4"
+  }
+}
